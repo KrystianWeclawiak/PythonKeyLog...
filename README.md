@@ -1,4 +1,3 @@
-PythonKeyLog
 ### **Key Logger – for educational & testing purposes only**
 
 ---
